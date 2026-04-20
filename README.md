@@ -3,6 +3,7 @@
 -> The workflow includes data cleaning, structured querying using SQL, and visualization through Power BI dashboards.
 -> The objective is to convert raw transactional data into actionable business intelligence.
 -> Python, SQL, Power BI  were used for data processing, analysis, and visualization.
+-> The Raw dataset consists of huge inconsistent data that required pre processing before analysing.
 -> The analysis provides insights into sales trends, revenue patterns, and customer behavior. 
 -> The dashboard enables clear visibility into performance metrics and supports data-driven decision-making for business improvement.
 
